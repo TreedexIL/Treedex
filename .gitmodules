@@ -1,3 +1,5 @@
 [submodule "TreedexConstruction"]
     path = TreedexConstruction
     url = https://github.com/TreedexIL/TreedexConstruction.git
+[submodule "submodule/TreedexConstruction"]
+	url = https://github.com/TreedexIL/TreedexConstruction.git
